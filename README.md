@@ -1,7 +1,7 @@
 # Reclaiming Childhood
 Fork of a Mining Simulator pyGame experience for my school project. DEC/15/2025
 
-![Project Banner](path/to/your-image.png)
+![Project Banner](https://github.com/BRINGBACKTHENOISE/ReclaimingChildhood/blob/main/BannerGameMine.png?raw=true)
 
 ## Features
 - Mining
