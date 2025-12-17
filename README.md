@@ -1,9 +1,9 @@
 # Reclaiming Childhood
+Last Updated: DEC/16/2025
 ![Progress](https://img.shields.io/badge/progress-65%25-green)
 
 
-Fork of a Mining Simulator pyGame experience for my school project. DEC/15/2025
-
+Fork of a Mining Simulator pyGame experience for my school project.
 Debuting at Exhibition Night.
 
 ![Project Banner](https://github.com/BRINGBACKTHENOISE/ReclaimingChildhood/blob/main/BannerGameMine.png?raw=true)
